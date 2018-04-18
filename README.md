@@ -3,12 +3,23 @@
 ## Motivation
 In a paragraph, explain why you are building this program.
 
+I am building this program because the one I wanted to choose was going to take longer than expected. At first I wanted to use the UPC-A 12 digit barcode homework assignment to created barcode art. Basically I was going to use the binary 1's to draw darker shades for like let's just say Mona Lisa's eyebrows. However, it felt like a hard task for me to handle. So now I have chosen to design about 4 different screen savers using mainly crazy shapes as a template.
+
 ## Purpose
 In a single sentence, describe what your program will do.
+
+If all goes well I will be able to create a program that allows the urser to choose a screen saver of their choice and give them access to change them at any given time.
 
 ## Initial Design Plan
 Outline the program:
 - List all of the classes in the program.
+
+Screen_saver1
+Screen_saver2
+Screen_saver3
+Screen_screen4
+draw_screen_saver
+
   - Your program must use object-oriented programming, instead of
   purely functional programming. So, your program may be
   separated into as many modules as necessary.
